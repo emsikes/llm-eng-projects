@@ -2,3 +2,5 @@ openai
 python-dotenv
 pillow
 gradio
+google-generativeai
+anthropic
