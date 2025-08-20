@@ -4,3 +4,15 @@ pillow
 gradio
 google-generativeai
 anthropic
+transformers
+accelerate
+bitsandbytes
+torch
+pypdf
+huggingface_hub
+langchain
+langchain-openai
+langchain-community
+openai
+chromadb
+tiktoken
